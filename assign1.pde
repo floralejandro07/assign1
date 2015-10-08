@@ -34,8 +34,6 @@ void setup () {
 void draw() {
   // your code
   
-  background(255);
-   
   //background
   B=B%1282;
   B-=1;
