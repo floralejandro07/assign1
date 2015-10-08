@@ -37,8 +37,8 @@ void draw() {
   background(255);
    
   //background
-  B-=1;
   B=B%1282;
+  B-=1;
   image(bg2,B,0);
   image(bg1,B+641,0);
   image(bg2,B+1282,0); 
